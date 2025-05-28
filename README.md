@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadwijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="prasadwijesinghe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadwijesinghe" alt="prasadwijesinghe" /></a> </p>
-
 - 🌱 I’m currently learning **Three. js**
 
 - 📫 How to reach me **wmprasadwijesinghe@gmail.com**
